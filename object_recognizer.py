@@ -28,11 +28,6 @@ def get_object_from_cloud(image_path):
         return 'could not detect object'
 
 
-
-    
-
-
-
 def get_image_from_frame(cap):
     ret, frame = cap.read()
     file = 'frame.png'
