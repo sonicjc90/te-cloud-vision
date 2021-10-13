@@ -1,5 +1,5 @@
 """
-object_recognizer.p authored by Google Code Next
+object_recognizer.py authored by Google Code Next
 This program uses the Google Cloud Vision AI API to return the object that has the highest confidence score based on a camera input frame (.png)
 Run the code in Thonny on the Raspberry Pi with a Camera module attached.
 """
