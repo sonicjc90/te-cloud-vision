@@ -1,7 +1,7 @@
 {
   "type": "service_account",
   "project_id": "raspimon",
-  "private_key_id": "98e5fb7831471dede1fabe049c07d5f86e0f5033",
+  "private_key_id": TE_CLOUDVISION_PRIVATE_KEY_ID,
   "private_key": TE_CLOUDVISION_PRIVATE_RSA_KEY,
   "client_email": "raspimonsa@raspimon.iam.gserviceaccount.com",
   "client_id": "114091179636778636214",
